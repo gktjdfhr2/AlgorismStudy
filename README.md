@@ -7,7 +7,6 @@
 | ----------- | ---------------------- | ---------------------- | ------------------------------------|
 | 01/25      | [10825_국영수](https://www.acmicpc.net/problem/10825)       | [10825](https://github.com/gktjdfhr2/BaekjoonAlgorism/blob/master/src/dailyAlgorism/HSR_10825.java)| 정렬 |
 | 01/26      | [7795_먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795)    | [7795](https://github.com/gktjdfhr2/BaekjoonAlgorism/blob/master/src/dailyAlgorism/HSR_7795.java)| 이분 탐색 |
-
 | 01/27      | [9095_1,2,3 더하기](https://www.acmicpc.net/problem/9095)       | [9095](https://github.com/gktjdfhr2/BaekjoonAlgorism/blob/master/src/dailyAlgorism/HSR_9095.java)| 다이나믹 프로그래밍 |
 | 01/28      | [1157_단어공부](https://www.acmicpc.net/problem/1157)       | [1157](https://github.com/gktjdfhr2/BaekjoonAlgorism/blob/master/src/dailyAlgorism/HSR_1157.java)| 구현 |
 | 01/31      | [2442_별찍기5](https://www.acmicpc.net/problem/2442)       | [2442](https://github.com/gktjdfhr2/BaekjoonAlgorism/blob/master/src/dailyAlgorism/HSR_2442.java)| 구현 |
