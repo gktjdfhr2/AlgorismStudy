@@ -26,3 +26,5 @@
 | 02/11      | [2470 두 용액](https://www.acmicpc.net/problem/2470)    | [2470](https://github.com/gktjdfhr2/BaekjoonAlgorism/blob/master/src/dailyAlgorism/HSR_2470.java)| 해시맵 |
 | 02/14      | [2805 나무 자르기](https://www.acmicpc.net/problem/2805)    | [2805](https://github.com/gktjdfhr2/BaekjoonAlgorism/blob/master/src/dailyAlgorism/HSR_2805.java)| 이진탐색 |
 | 02/15      | [11048 이동하기](https://www.acmicpc.net/problem/11048)    | [11048](https://github.com/gktjdfhr2/BaekjoonAlgorism/blob/master/src/dailyAlgorism/HSR_11048.java)| 다이나믹 프로그래밍 |
+| 02/16      | [7576 토마토](https://www.acmicpc.net/problem/7576)    | [7576](https://github.com/gktjdfhr2/BaekjoonAlgorism/blob/master/src/dailyAlgorism/HSR_7576.java)| 그래프 탐색 |
+| 02/17      | [16953 A->B](https://www.acmicpc.net/problem/16953)    | [16953](https://github.com/gktjdfhr2/BaekjoonAlgorism/blob/master/src/dailyAlgorism/HSR_16953.java)| 그리디 |
