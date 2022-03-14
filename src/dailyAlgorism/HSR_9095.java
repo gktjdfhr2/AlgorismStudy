@@ -1,4 +1,4 @@
-package Douzone;
+package dailyAlgorism;
 
 import java.util.Scanner;
 
