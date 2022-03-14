@@ -1,15 +1,15 @@
-package dailyAlgorism;
+package Douzone;
 
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
-
+//https://fbtmdwhd33.tistory.com/83
 //이름 국어 영어 수학 점수 주어짐 클래스 생성 
 		//국어점수 내림차순
 		//국어점수 동일할 시 영어점수 오름차순
 		//국어점수 & 영어점수 같을 시 수학점수 내림차순
 		//모든 점수가 같으면 이름 오름차순(아스키 코드 기준)
-public class HSR_10825{
+public class ScoreSort{
 	public static void main(String[] args) {
 		Scanner sc =new Scanner(System.in);
 		

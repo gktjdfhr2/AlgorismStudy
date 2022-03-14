@@ -1,4 +1,4 @@
-package dailyAlgorism;
+package quiz;
 
 import java.util.Scanner;
 

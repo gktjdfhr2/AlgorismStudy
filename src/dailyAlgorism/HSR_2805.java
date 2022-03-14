@@ -6,8 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class HSR_2805{
-	
+public class HSR_2805 {
 	public static void main(String[] args) throws IOException {
 		//입력부 세팅
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -27,12 +26,12 @@ public class HSR_2805{
 		
 		//나무의 최대높이 구해서 end로 설정
 		end = tree[tree.length-1];		
-		//System.out.println( "amount = " + amount);		
+		System.out.println( "amount = " + amount);		
 		while(start <= end) {
-			//System.out.println("start = " + start + ", end = " + end);
+			System.out.println("start = " + start + ", end = " + end);
 			sum = 0;
-			int mid = (start + end) / 2;
-			//System.out.println("mid = " + mid);		
+			int mid = (start + end) /2;
+			System.out.println("mid = " + mid);		
 		
 			for (int item : tree) {
 				if(item > mid) {
@@ -41,15 +40,18 @@ public class HSR_2805{
 			}
 			
 			//sum이 amount보다 크면 나무를 최소량보다 많이가져가는지 확인해야함
-			
-			if(sum > amount) {
-				//System.out.println("sum = " + sum);
+			if(sum >= amount) {
+				System.out.println("sum = " + sum);
 				start = mid + 1;
-			} else {	//sum이 amount보다 작으면 나무가 부족함 end를 줄여서 나무 더 채취 (정렬되어 있기때문)
+			} else {	//sum이 amount보다 작으면  
 				end = mid -1;
 			}
 		}
-		System.out.println(end);		
+		System.out.println(end);
+
+		
+		
+		
 	
 	}
 	
