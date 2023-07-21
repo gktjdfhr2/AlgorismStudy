@@ -1,3 +1,4 @@
+/*
 package dailyAlgorism;
 
 import java.io.BufferedReader;
@@ -156,3 +157,4 @@ public class HSR_1446 {
 	}
 	
 }
+*/

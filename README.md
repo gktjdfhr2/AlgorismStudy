@@ -1,7 +1,17 @@
 # Algorism Study Log
   
+# 2022년
 
 ## 1월 알고리즘 풀이
+
+<details>
+  <summary>
+    <STRONG>
+     🗃 4주차 문제
+    </STRONG>
+  </summary>
+     <br/>
+ <div markdown="1">
 
 | 월/일 | 문제                           | 풀이 링크 | 문제 분류 | 출처 |
 | ----------- | ---------------------- | ---------------------- | ------------------------------------| ---- |
@@ -10,9 +20,19 @@
 | 01/27      | [9095_1,2,3 더하기](https://www.acmicpc.net/problem/9095)       | [9095](https://github.com/gktjdfhr2/BaekjoonAlgorism/blob/master/src/dailyAlgorism/HSR_9095.java)| 다이나믹 프로그래밍 | 백준 알고리즘 |
 | 01/28      | [1157_단어공부](https://www.acmicpc.net/problem/1157)       | [1157](https://github.com/gktjdfhr2/BaekjoonAlgorism/blob/master/src/dailyAlgorism/HSR_1157.java)| 구현 | 백준 알고리즘 |
 | 01/31      | [2442_별찍기5](https://www.acmicpc.net/problem/2442)       | [2442](https://github.com/gktjdfhr2/BaekjoonAlgorism/blob/master/src/dailyAlgorism/HSR_2442.java)| 구현 | 백준 알고리즘 |
+ </div>
+</details>
 
 ## 2월 알고리즘 풀이
 
+<details>
+  <summary>
+    <STRONG>
+     🗃 1, 2, 3주차 문제
+    </STRONG>
+  </summary>
+     <br/>
+ <div markdown="1">
 | 월/일 | 문제                           | 풀이 링크 | 문제 분류 | 출처 |
 | ----------- | ---------------------- | ---------------------- | ------------------------------------| ---- |
 | 02/01      | [2443_별찍기6](https://www.acmicpc.net/problem/2443)       | [2443](https://github.com/gktjdfhr2/BaekjoonAlgorism/blob/master/src/dailyAlgorism/HSR_2443.java)| 구현 | 백준 알고리즘 |
@@ -28,8 +48,10 @@
 | 02/15      | [11048 이동하기](https://www.acmicpc.net/problem/11048)    | [11048](https://github.com/gktjdfhr2/BaekjoonAlgorism/blob/master/src/dailyAlgorism/HSR_11048.java)| 다이나믹 프로그래밍 | 백준 알고리즘 |
 | 02/16      | [7576 토마토](https://www.acmicpc.net/problem/7576)    | [7576](https://github.com/gktjdfhr2/BaekjoonAlgorism/blob/master/src/dailyAlgorism/HSR_7576.java)| 그래프 탐색 | 백준 알고리즘 |
 | 02/17      | [16953 A->B](https://www.acmicpc.net/problem/16953)    | [16953](https://github.com/gktjdfhr2/BaekjoonAlgorism/blob/master/src/dailyAlgorism/HSR_16953.java)| 그리디 | 백준 알고리즘 |
+ </div>
+</details>
 
-# 3월
+## 3월 알고리즘 풀이
 
 <details>
   <summary>
@@ -88,7 +110,7 @@
  </div>
 </details>
 
-# 4월
+## 4월 알고리즘 풀이
  <details>
   <summary>
     <STRONG>
@@ -146,7 +168,7 @@
  </div>
 </details>
 
-# 5월
+## 5월 알고리즘 풀이
 <details>
   <summary>
     <STRONG>
