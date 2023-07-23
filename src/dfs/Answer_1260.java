@@ -1,9 +1,8 @@
-package programmers.answer;
+package dfs;
 
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
-import java.util.Stack;
 
 public class Answer_1260 {
 
