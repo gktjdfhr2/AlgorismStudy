@@ -25,7 +25,6 @@ public class TestClass {
         int[] test = new int[4];
 
 
-        test = System.arr
         System.out.println(photo[1][3]);
         int size = photo.length;
         int[] result = new int[size];
@@ -37,12 +36,6 @@ public class TestClass {
                 }
             }
         }
-
-        for (int num:result
-             ) {
-            System.out.println(num);
-        }
-
     }
 
     public static int findIndex(String[] arr, String name) {
